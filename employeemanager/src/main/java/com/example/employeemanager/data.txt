@@ -1,0 +1,23 @@
+{
+    "email": "mohamedfayad@gmail.com",
+    "imageUrl": "https://pyxis.nymag.com/v1/imgs/671/5f6/63dcd78bf524f9ffb4a40f2d59f838a4e3-05-os-tan.rsquare.w700.jp",
+    "jobTitle": "developper",
+    "name": "Mohamed Fayad",
+    "phone": "0679525611"
+}
+
+{
+    "email": "nourfayad@gmail.com",
+    "imageUrl": "https://pyxis.nymag.com/v1/imgs/671/5f6/63dcd78bf524f9ffb4a40f2d59f838a4e3-05-os-tan.rsquare.w700.jp",
+    "jobTitle": "cosmetic",
+    "name": "Nour Fayad",
+    "phone": "0679578452"
+}
+
+{
+    "email": "anasfayad@gmail.com",
+    "imageUrl": "https://pyxis.nymag.com/v1/imgs/671/5f6/63dcd78bf524f9ffb4a40f2d59f838a4e3-05-os-tan.rsquare.w700.jp",
+    "jobTitle": "study",
+    "name": "Anas Fayad",
+    "phone": "0679578452"
+}
